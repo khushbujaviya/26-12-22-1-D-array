@@ -9,14 +9,14 @@ main()
 		scanf("%d",&n);
 	
 	
-		int i,a[n],count=1;
+		int i,a[n],count=0;
 
 		
 			for(i=0;i<n;i++)
 		{
-			scanf("%d\n",&a[n]);
+			scanf("%d\n",&a[i]);
 		}
-			count+=a[n];
+			count=n+1;
 			{
 				printf("%d",count);
 			}

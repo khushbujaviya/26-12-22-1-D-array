@@ -13,8 +13,11 @@ main()
 
 		
 			for(i=0;i<n;i++)
-		
-			scanf("%d\n",&a[n]);
-		
+			
+		{
+			scanf("%d",&a[n]);
+	
+		printf("%d",a[n]);
+	}
 }
 	
